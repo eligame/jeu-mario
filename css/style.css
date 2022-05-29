@@ -1,0 +1,34 @@
+body, html {
+  background-image: url("../img/fond.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+
+#perso{
+  position:fixed;
+  bottom:30px;
+  left:20px;
+}
+
+#mushroom{
+  position:fixed;
+  bottom:30px;
+  left:1100px;
+}
+
+#gameover{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#volant{
+  width: 9%;
+  position: fixed;
+  bottom:140px;
+  left: 1500px;
+}
